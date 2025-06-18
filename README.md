@@ -1,6 +1,6 @@
 <center>
 
-![me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBxenltMWhvOTNxNHByejJ3OHVoM3N6YzcwdGQ0c2M0cXphdHZseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kxUhZ0TY46X1Dk48ru/giphy.gif)
+![me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd1cmcxNGI2MG4ybXBjYmp1cXcxY2N6emZoOHBjYnM3NjQ3M3prNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VJKwyhI4jPuJkp6RRi/giphy.gif)
 
 </center>
 
@@ -17,10 +17,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal)](https://skillicons.dev)
+
 
 
 
 
 ## Uh, Ok bye🙋‍♂️
-![me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBxenltMWhvOTNxNHByejJ3OHVoM3N6YzcwdGQ0c2M0cXphdHZseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cjW8KGEL4vIw9NPh5j/giphy.gif)
+![me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd1cmcxNGI2MG4ybXBjYmp1cXcxY2N6emZoOHBjYnM3NjQ3M3prNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lDQnCVcjyZWlbgLW2s/giphy.gif)
