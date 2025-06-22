@@ -23,4 +23,4 @@
 
 
 ## Uh, Ok bye🙋‍♂️
-![me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd1cmcxNGI2MG4ybXBjYmp1cXcxY2N6emZoOHBjYnM3NjQ3M3prNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lDQnCVcjyZWlbgLW2s/giphy.gif)
+![me](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY2Y2VnN3h2ZTc2YmJsaWJsOHQ5OXY4aTRpcGV5em9oMzdrbWRkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lk1IcVgqPLkA/giphy.gif)
