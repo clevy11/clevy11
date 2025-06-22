@@ -6,7 +6,7 @@
 
 # Hi, there 👋
 
-### My name is Caleb levy Buntu, I work on software development , some of which are pretty good. I have experience with the MERN stack and have been leveling up in mobile development with React Native and flutter. 😊
+### I'm a software developer passionate about building clean, user-focused applications. I have hands-on experience with the MERN stack and have been expanding into mobile development using React Native and Flutter. Some of my projects are pretty solid — and I’m always learning and improving.. 😊
 
 # Tech Stack ⚙️
 ### Languages, frameworks, libraries & tools
